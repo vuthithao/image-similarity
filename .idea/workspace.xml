@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58a6aa73-46f7-4258-8ae1-2a9a2e7f16c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5cce5f1d43774_Trang25_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5cce64a15df16_Trang114_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5cce6b64b6608_Trang173_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5ccebffa7c3f1_Trang79_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5cd03b226693f_Trang59_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5cd2ad25a528a_Trang151_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass0/5cd2ad9543de0_Trang363_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce5d762d12d_Trang160_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce5e79ed515_Trang78_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce6a62e1383_Trang33_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce6a62e1383_Trang33_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce6a62e1383_Trang33_CH_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce6a62e1383_Trang33_CH_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass1/5cce72f474169_Trang54_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5ccc24b5489c6_Trang36_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5cd1a1760ffd9_Trang640_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5cd2a05ec3671_Trang54_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5cd2a1e3c8a79_Trang20_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5cd2a8397b855_Trang157_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5cd2a84ea7d96_Trang117_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass10/5cd2a9d16f1f9_Trang181_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cce537a02fc8_Trang12_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cd00fcf1ad3e_Trang71_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cd01b2136ae7_Trang218_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cd01b70bcb21_Trang106_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cd01eb4a2a76_Trang232_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cd01f4d3e10f_Trang233_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass11/5cd1a33e2a813_Trang456_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass12/5cd2a2357fe99_Trang249_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass12/5cd2a6d67888d_Trang115_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass12/5cd2a80ccaea9_Trang281_CH_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass12/5cd2fda455bbe_Trang220_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass12/5cd3e10aa0878_Trang134_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5ccebb052e43d_Trang129_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5cd00fcf1ad3e_Trang71_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5cd01f4d3e10f_Trang233_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5cd2a2a7d9e7e_Trang251_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5cd2a66f8b8c5_Trang246_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5cd2a6b1e1a7e_Trang130_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass13/5cd2a9c49294d_Trang180_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5ccc1c7b52f3b_Trang63_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5cce709c77380_Trang745_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5ccebffd6d01b_Trang34_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5ccebffd6d01b_Trang34_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5ccebffd6d01b_Trang34_CH_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5ccebffd6d01b_Trang34_CH_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass2/5ccef94627b3f_Trang250_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cceb938944ec_Trang121_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cd02a082ec6d_Trang132_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cd02a58593f3_Trang133_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cd2a8af25879_Trang106_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cd2a8c89c7d2_Trang107_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cd2abecdac28_Trang309_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass3/5cd3d6d21b873_Trang15_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd03d364ec87_Trang24_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd2a5e930376_Trang25_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd2ad8ae8483_Trang322_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd2f36c4031b_Trang112_CH_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd3e268c08d5_Trang43_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd4edf281db5_Trang82_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass4/5cd4ef5dddcf9_Trang133_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd2a1dd6f770_Trang6_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd2a2174830e_Trang6_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd2a49bb73a5_Trang9_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd2a584a32de_Trang20_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd2a920e7bbe_Trang280_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd3dd270b653_Trang129_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd3dd270b653_Trang129_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass5/5cd3dd270b653_Trang129_CH_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5ccc23f85afc3_Trang34_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5ccc23f85afc3_Trang34_CH_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5ccc23f85afc3_Trang34_CH_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5ccc253c7dac9_Trang38_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5ccd1290d5c58_Trang45_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5ccd54b81700d_Trang157_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5cce60d24219e_Trang91_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass6/5cce65057e766_Trang120_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5ccc24a057fe3_Trang157_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5ccc24a057fe3_Trang157_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5ccc24a057fe3_Trang157_CH_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5ccc24a057fe3_Trang157_CH_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5ccc24a057fe3_Trang157_CH_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5cd1a120a5181_Trang196_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5cd1a130c6ee3_Trang196_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass7/5cd2a06e4cef1_Trang180_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5ccc36ddc0204_Trang155_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5ccd13486696f_Trang47_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5ccd13486696f_Trang47_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5ccebb052e43d_Trang129_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5cd01a473850c_Trang208_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5cd01a473850c_Trang208_CH_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass8/5cd01b84ab0ed_Trang223_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5cce5bdc36f83_Trang127_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5cce5c9c63140_Trang141_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5cce6ba366053_Trang507_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5cce6e14f04a6_Trang190_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5ccfe3e44fb1f_Trang97_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5cd00b549b9ae_Trang50_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/SimilarityClass9/5cd00bb4f22d5_Trang55_CH_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deepRanking.py" beforeDir="false" afterPath="$PROJECT_DIR$/deepRanking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tripletSampler.py" beforeDir="false" afterPath="$PROJECT_DIR$/tripletSampler.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deepRanking.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
@@ -126,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ImageDataGeneratorCustom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5797">
+            <state relative-caret-position="773">
               <caret line="637" column="72" selection-start-line="637" selection-start-column="72" selection-end-line="637" selection-end-column="72" />
             </state>
           </provider>
@@ -141,10 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tripletSampler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-742">
+            <state relative-caret-position="398">
+              <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -174,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/deepranking_get_distance.py" />
         <option value="$PROJECT_DIR$/deepRanking.py" />
+        <option value="$PROJECT_DIR$/tripletSampler.py" />
       </list>
     </option>
   </component>
@@ -276,18 +179,11 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tripletSampler.py">
+    <entry file="file://$PROJECT_DIR$/ImageDataGeneratorCustom.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-742">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="773">
+          <caret line="637" column="72" selection-start-line="637" selection-start-column="72" selection-end-line="637" selection-end-column="72" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/triplet/triplets.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3825" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deepranking_get_distance.py">
@@ -297,19 +193,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageDataGeneratorCustom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5797">
-          <caret line="637" column="72" selection-start-line="637" selection-start-column="72" selection-end-line="637" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deepRanking.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="79" column="57" selection-start-line="79" selection-start-column="57" selection-end-line="79" selection-end-column="57" />
           <folding>
             <element signature="e#17#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triplet/triplets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tripletSampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
