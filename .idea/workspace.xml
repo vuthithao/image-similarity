@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58a6aa73-46f7-4258-8ae1-2a9a2e7f16c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/deepRanking.py" beforeDir="false" afterPath="$PROJECT_DIR$/deepRanking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deepranking_get_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/deepranking_get_distance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deepRanking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="134" column="29" lean-forward="true" selection-start-line="134" selection-start-column="29" selection-end-line="134" selection-end-column="29" />
+            <state relative-caret-position="293">
+              <caret line="129" column="46" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="46" />
               <folding>
                 <element signature="e#17#56#0" expanded="true" />
               </folding>
@@ -33,10 +33,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deepranking_get_distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1162" />
+            <state relative-caret-position="368">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -67,6 +69,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/deepRanking.py" />
+        <option value="$PROJECT_DIR$/deepranking_get_distance.py" />
       </list>
     </option>
   </component>
@@ -147,6 +150,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.166393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -168,11 +172,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deepranking_get_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1162" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tripletSampler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-742">
@@ -196,11 +195,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deepRanking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="134" column="29" lean-forward="true" selection-start-line="134" selection-start-column="29" selection-end-line="134" selection-end-column="29" />
+        <state relative-caret-position="293">
+          <caret line="129" column="46" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="46" />
           <folding>
             <element signature="e#17#56#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepranking_get_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
