@@ -124,11 +124,10 @@ deep_rank_model.compile(loss=_loss_tensor, optimizer=SGD(lr=0.001, momentum=0.9,
 
 
 train_steps_per_epoch = int((15099)/batch_size)
-train_epocs = 24
+train_epocs = 51
 filepath = "weights.{epoch:02d}-{loss:.2f}.h5"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=0, save_best_only=False, save_weights_only=False, mode='auto', period=1)
 deep_rank_model.fit_generator(train_generator,
-                        steps_per_epoch=train_steps_per_epoch,
                         epochs=train_epocs,
                         callback = checkpoint)
 
