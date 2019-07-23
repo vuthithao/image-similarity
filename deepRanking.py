@@ -129,8 +129,8 @@ filepath = "weights.{epoch:02d}-{loss:.2f}.h5"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=0, save_best_only=False, save_weights_only=False, mode='auto', period=1)
 deep_rank_model.fit_generator(train_generator,
                         steps_per_epoch=train_steps_per_epoch,
-                        epochs=train_epocs)
-                        # callback = checkpoint)
+                        epochs=train_epocs,
+                        callback = checkpoint)
 
 model_path = "deepranking.h5"
 deep_rank_model.save_weights(model_path)
